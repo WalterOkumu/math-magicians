@@ -1,0 +1,32 @@
+.calculator-container {
+  margin: auto;
+  width: 350px;
+  height: auto;
+
+  .top-area {
+    .top-area-data {
+      background-color: #848693;
+      width: 100%;
+      height: 40px;
+      text-align: end;
+      color: white;
+      font-weight: bold;
+      padding: 8px;
+      cursor: pointer;
+    }
+  }
+
+  .table-button {
+    padding: 5px;
+    text-align: center;
+    background-color: #e0e0e0;
+    cursor: pointer;
+  }
+
+  .symbol {
+    padding: 5px;
+    text-align: center;
+    background-color: #f5903e;
+    cursor: pointer;
+  }
+}
