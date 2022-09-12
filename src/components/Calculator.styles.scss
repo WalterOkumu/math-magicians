@@ -12,21 +12,32 @@
       color: white;
       font-weight: bold;
       padding: 8px;
-      cursor: pointer;
     }
   }
 
   .table-button {
     padding: 5px;
     text-align: center;
-    background-color: #e0e0e0;
     cursor: pointer;
+    background-color: #e0e0e0;
+
+    button {
+      background-color: #e0e0e0;
+      border: none;
+      cursor: pointer;
+    }
   }
 
   .symbol {
     padding: 5px;
     text-align: center;
-    background-color: #f5903e;
     cursor: pointer;
+    background-color: #f5903e;
+
+    button {
+      border: none;
+      background-color: transparent;
+      cursor: pointer;
+    }
   }
 }
