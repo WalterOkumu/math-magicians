@@ -1,0 +1,17 @@
+.calculator-page-container {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+
+  .text {
+    width: 45%;
+
+    h4 {
+      font-size: 25px;
+    }
+  }
+
+  .calculator {
+    width: 55%;
+  }
+}

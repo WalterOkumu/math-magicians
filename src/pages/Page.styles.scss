@@ -1,0 +1,14 @@
+.calculator-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 20px;
+
+  .text {
+    width: 50%;
+
+    h4 {
+      font-size: 25px;
+    }
+  }
+}
