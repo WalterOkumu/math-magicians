@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "author": "Niels H. Abel",
+    "life": "1802 - 1829",
+    "quote": "If you disregard the very simplest cases, there is in all of mathematics not a single infinite series whose sum has been rigorously determined. In other words,the most important parts of mathematics stand without a foundation.",
+    "source": "In G. F. Simmons, Calculus Gems, New York: Mcgraw Hill, Inc., 1992, p. 188."
+  },
+  {
+    "id": 1,
+    "author": "Douglas Adams",
+    "life": "1952 - 2001",
+    "quote": "Bistromathics itself is simply a revolutionary new way of understanding the behavior of numbers. Just as Einstein observed that space was not an absolute but depended on the observer's movement in space, and that time was not an absolute, but depended on the observer's movement in time, so it is now realized that numbers are not absolute, but depend on the observer's movement in restaurants.",
+    "source": "Life, the Universe and Everything. New York: Harmony Books, 1982."
+  },
+  {
+    "id": 2,
+    "author": "Douglas Adams",
+    "life": "1952 - 2001",
+    "quote": "The first nonabsolute number is the number of people for whom the table is reserved. This will vary during the course of the first three telephone calls to the restaurant, and then bear no apparent relation to the number of people who actually turn up, or to the number of people who subsequently join them after the show/match/party/gig, or to the number of people who leave when they see who else has turned up. The second nonabsolute number is the given time of arrival, which is now known to be one of the most bizarre of mathematical concepts, a recipriversexcluson, a number whose existence can only be defined as being anything other than itself. In other words, the given time of arrival is the one moment of time at which it is impossible that any member of the party will arrive. Recipriversexclusons now play a vital part in many branches of math, including statistics and accountancy and also form the basic equations used to engineer the Somebody Else's Problem field. The third and most mysterious piece of nonabsoluteness of all lies in the relationship between the number of items on the bill, the cost of each item, the number of people at the table and what they are each prepared to pay for. (The number of people who have actually brought any money is only a subphenomenon of this field).",
+    "source": "Life, the Universe and Everything. New York: Harmony Books, 1982."
+  },
+  {
+    "id": 3,
+    "author": "Alfred Adler",
+    "life": "1870 - 1937",
+    "quote": "Each generation has its few great mathematicians, and mathematics would not even notice the absence of the others. They are useful as teachers, and their research harms no one, but it is of no importance at all. A mathematician is great or he is nothing.",
+    "source": "'Mathematics and Creativity.' The New Yorker Magazine, February 19, 1972."
+  },
+  {
+    "id": 4,
+    "author": "Woody Allen",
+    "life": "",
+    "quote": "Standard mathematics has recently been rendered obsolete by the discovery that for years we have been writing the numeral five backward. This has led to reevaluation of counting as a method of getting from one to ten. Students are taught advanced concepts of Boolean algebra, and formerly unsolvable equations are dealt with by threats of reprisals.",
+    "source": "In Howard Eves' Return to Mathematical Circles, Boston: Prindle, Weber, and Schmidt, 1988."
+  }
+]
