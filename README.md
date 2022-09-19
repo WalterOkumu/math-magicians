@@ -21,10 +21,10 @@
 
 ### To get a local copy up and running follow these simple steps
 
-  > git@github.com:WalterOkumu/math-magicians.git
-  > cd math-magicians
-  > npm install or yarn install
-  > npm start or yarn start
+    > git@github.com:WalterOkumu/math-magicians.git
+    > cd math-magicians
+    > npm install or yarn install
+    > npm start or yarn start
 
 ## Authors
 
