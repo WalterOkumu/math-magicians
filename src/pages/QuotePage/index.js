@@ -14,6 +14,7 @@ const QuotePage = () => {
 
   return (
     <div className="container">
+      <h2 className="title">Math Quote</h2>
       <p>
         {quoteObj.quote}
       </p>
